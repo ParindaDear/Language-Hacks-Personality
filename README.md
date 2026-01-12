@@ -63,7 +63,7 @@
     Then implemented feature engineering with TF-IDF to convert text into numerical representations for ML models.
   - Use `class_weight='balanced'` to handling class imbalance with balanced weights, giving fair weight to smaller classes and making the model more reliable.
 
-- **Result**
+- **Result**   
   Logistic Regression model achieved 82% accuracy predicting Introvert vs Extrovert, with top predictive words for each class providing interpretable insights.
 
  
