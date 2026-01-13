@@ -1,5 +1,7 @@
 # Language Hacks Personality 🔍🤔
 ## Project Overview   
+This project analyzes text data to classify personality traits as Introvert (I) or Extrovert (E) using machine learning. We determine a person's I or E type by looking at the first letter of their MBTI type. By extracting patterns from language, the model then looks at language patterns to see which words are commonly used by introverts and extroverts.   
+These insights are then applied to business scenarios, such as personalized marketing, churn prediction, and customer engagement strategies.
 
 ## Dataset
 - **Source:** [(MBTI) Myers-Briggs Personality Type Dataset (Kaggle)](https://www.kaggle.com/datasets/datasnaek/mbti-type)
